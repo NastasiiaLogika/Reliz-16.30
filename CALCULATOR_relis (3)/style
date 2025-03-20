@@ -1,0 +1,15 @@
+QWidget{
+    background-color: rgb(6, 37, 192);
+    font-family:'Segoe UI',Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18 px; 
+}
+
+QPushButton{
+    background-color: rgb(193, 7, 7);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #605aff;
+    font-size: 20px;
+}
